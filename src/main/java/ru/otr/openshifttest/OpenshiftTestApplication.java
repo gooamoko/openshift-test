@@ -9,5 +9,4 @@ public class OpenshiftTestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OpenshiftTestApplication.class, args);
 	}
-
 }
